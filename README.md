@@ -195,6 +195,6 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-This project is [MIT](license url) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 ***
